@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216442134406",
+    "project_id": "bugresolvendo",
+    "storage_bucket": "bugresolvendo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216442134406:android:0fbc9aa37191a36bef5607",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0cPU1dsBMw8IgU8PMrQ3KsjLmTp-oGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
